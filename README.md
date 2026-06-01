@@ -81,11 +81,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Set your ENTSO-E API key as an environment variable:
-
-```bash
-export ENTSOE_API_KEY="your-api-key-here"
-```
+Write your ENTSO-E API inside `.env`.
 
 Then download the data:
 
@@ -104,7 +100,7 @@ This project is part of a broader effort to apply rigorous quantitative methods 
 ## Roadmap
 
 - [x] Repository structure and environment setup
-- [ ] ENTSO-E data pipeline
+- [x] ENTSO-E data pipeline
 - [ ] Exploratory data analysis
 - [ ] Baseline models (SARIMA, naive)
 - [ ] ML models with feature engineering

@@ -1,0 +1,46 @@
+AL  Albania
+AT  Austria
+BY  Belarus
+BE  Belgium
+BA  Bosnia Herzegovina
+BG  Bulgaria
+HR  Croatia
+CY  Cyprus
+CZ  Czech Republic
+DE-LU   Germany
+DK_1    Denmark
+DK_2    Denmark
+EE  Estonia
+FI  Finland
+MK  Macedonia
+FR  France
+GR  Greece
+HU  Hungary
+IS  Iceland
+IE_SEM  Ireland
+IT_SACOAC, IT_SACODC, IT_SARD   Italy, Sardinia
+IT_SICI Italy, Sicily
+IT_CALA, IT_CNOR, IT_CSUD, IT_NORD, IT_SUD  Italy, Mainland
+RU_KGD  Russia, Kaliningrad
+LV  Latvia
+LT  Lituania
+MT  Malta
+ME  Montenegro
+GB  Great Britain
+GE  Georgia
+NL  Netherlands
+NO_1, NO_2, NO_3, NO_4, NO_5 Norway
+PL  Poland
+PT  Portugal
+MD  Moldova
+RO  Romania
+RU  Russia
+SE_1, SE_2, SE_3, SE_4  Sweden
+RS  Serbia
+SK  Slovakia
+SI  Slovenia
+ES  Spain
+CH  Switzerland
+TR  Turkey
+UA_IPS  Ukraine
+XK  Kosovo
