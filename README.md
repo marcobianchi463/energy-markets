@@ -101,7 +101,7 @@ This project is part of a broader effort to apply rigorous quantitative methods 
 
 - [x] Repository structure and environment setup
 - [x] ENTSO-E data pipeline
-- [ ] Exploratory data analysis
+- [x] Exploratory data analysis
 - [ ] Baseline models (SARIMA, naive)
 - [ ] ML models with feature engineering
 - [ ] Probabilistic forecasting
